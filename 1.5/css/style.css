@@ -1,0 +1,68 @@
+.fullwrap {
+  width: 60%;
+  margin: auto;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.header {
+  margin: auto;
+}
+
+.headimg {
+  height: 100%;
+  width: 100%;
+}
+
+.picture {
+  margin: auto;
+  height: 200px;
+  width: 200px;
+  display: block;
+}
+
+.warp {
+  padding: 5px 5px 5px 5px;
+  margin: 5px 5px 5px 5px;
+}
+
+.main {
+  width: 95%;
+  padding: 10px 10px 20px 10px;
+  margin: auto;
+}
+
+.footer {
+  margin: 10px 10px 10px 10px;
+  text-align: center;
+}
+
+button {
+  background-color: rgb(227, 84, 69);
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 16px;
+  width: 100%;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+.blocks:after {
+  content: "";
+  display: table;
+}
+
+.column1 {
+  float: left;
+  width: 47%;
+  padding: 10px;
+  margin: auto;
+}
+
+.column2 {
+  float: left;
+  width: 30%;
+  padding: 5px;
+  margin: auto;
+}
